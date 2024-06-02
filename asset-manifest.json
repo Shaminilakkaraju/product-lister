@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/product-lister/static/css/main.c4d60dff.css",
+    "main.js": "/product-lister/static/js/main.791a5626.js",
+    "static/js/453.69fbcc3e.chunk.js": "/product-lister/static/js/453.69fbcc3e.chunk.js",
+    "static/media/saree4.jpg": "/product-lister/static/media/saree4.dd8e7b12b5d71b531ab5.jpg",
+    "static/media/saree3.jpg": "/product-lister/static/media/saree3.1767a4503a74c7d332d8.jpg",
+    "static/media/saree5.jpg": "/product-lister/static/media/saree5.d6fc82df86ba720ceaf5.jpg",
+    "static/media/saree6.jpg": "/product-lister/static/media/saree6.f330496d7dc89ea66e2e.jpg",
+    "static/media/saree2.jpg": "/product-lister/static/media/saree2.ecfcfda496566ac17134.jpg",
+    "static/media/saree1.jpg": "/product-lister/static/media/saree1.f96fab2943a61fa4d8a3.jpg",
+    "index.html": "/product-lister/index.html",
+    "main.c4d60dff.css.map": "/product-lister/static/css/main.c4d60dff.css.map",
+    "main.791a5626.js.map": "/product-lister/static/js/main.791a5626.js.map",
+    "453.69fbcc3e.chunk.js.map": "/product-lister/static/js/453.69fbcc3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4d60dff.css",
+    "static/js/main.791a5626.js"
+  ]
+}
